@@ -9,7 +9,7 @@ This quarter, Professors Akella and Lowe-Power are co-teaching the Electrical an
 
 ## Class goals
 
-The goal of the course is to go deeper into computer architecture than we typically cover in ECE 220 or CSE 201A.
+The goal of the course is to go deeper into computer architecture than we typically cover in ECE 270 or CSE 201A.
 In those course we cover core microarchitecture and caching, but don't have time to get into the details of multicore architecture or memory system design.
 We also want to give a flavor of computer architecture research, and give everyone in the class the chance to contribute to a research project.
 
