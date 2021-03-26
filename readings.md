@@ -11,11 +11,33 @@ Let us know on Teams if you can't find the paper or can't log into the VPN and w
 **NOTE:** All chapter/section numbers are *inclusive*.
 I.e., if it's Sections 4-4.2 you should read Sections 4, 4.1, 4.1.1, 4.1.2, and Section 4.2.
 
-* [Week 1: Introduction to High-performance Computer Architecture](#Week-1-Introduction-to-High-performance-Computer-Architecture)
-* [Week 2: Cache coherence and memory consistency](#Week-2-Cache-coherence-and-memory-consistency)
-* [Week 3: On-chip interconnection networks](#Week-3-On-chip-interconnection-networks)
-* [Week 4: Memory system](#Week-4-Memory-system)
-* [Week 5: Virtual memory and Virtualization](#Week-5-Virtual-memory-and-Virtualization)
+## How lecture will work (20% of your grade!)
+
+Before every lecture, you *must* read the required reading listed below.
+You must submit 2 "test-like" questions based on the reading.
+These questions will be graded on the following scale:
+
+* 3 points: The question is off topic or has fundamental mistakes
+* 7 points: The question only requires recalling facts from the reading
+* 10 points: The question demonstrates a deep understanding of the reading and asks a research-like question that requires coalescing knowledge.
+
+For the first 45 minutes to an hour of lecture Professor Akella and/or Lowe-Power will reinforce the reading.
+We will only hit the highlights, fill in blanks which the reading misses, and answer questions you may have (i.e., if you don't do the reading you will miss important information!).
+
+Then, we will randomly assign everyone to breakout rooms for 15-30 minutes to work in groups to answer *the questions you proposed*.
+We will select 2-4 questions for each lecture which you will have to write 1-2 paragraph answers.
+You will work together on a google doc within your group and then turn in the document at the end of the breakout session.
+
+**You will be graded based on your answers** to these questions.
+The breakout sessions answers and the questions you submit before class will make up 20% of your grade.
+
+## Reading lists
+
+* [Week 1: Introduction to High-performance Computer Architecture](#week-1-introduction-to-high-performance-computer-architecture)
+* [Week 2: Cache coherence and memory consistency](#week-2-cache-coherence-and-memory-consistency)
+* [Week 3: On-chip interconnection networks](#week-3-on-chip-interconnection-networks)
+* [Week 4: Memory system](#week-4-memory-system)
+* [Week 5: Virtual memory and Virtualization](#week-5-virtual-memory-and-virtualization)
 
 ## Week 1: Introduction to High-performance Computer Architecture
 
