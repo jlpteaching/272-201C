@@ -11,6 +11,12 @@ Let us know on Teams if you can't find the paper or can't log into the VPN and w
 **NOTE:** All chapter/section numbers are *inclusive*.
 I.e., if it's Sections 4-4.2 you should read Sections 4, 4.1, 4.1.1, 4.1.2, and Section 4.2.
 
+* [Week 1: Introduction to High-performance Computer Architecture](#Week-1-Introduction-to-High-performance-Computer-Architecture)
+* [Week 2: Cache coherence and memory consistency](#Week-2-Cache-coherence-and-memory-consistency)
+* [Week 3: On-chip interconnection networks](#Week-3-On-chip-interconnection-networks)
+* [Week 4: Memory system](#Week-4-Memory-system)
+* [Week 5: Virtual memory and Virtualization](#Week-5-Virtual-memory-and-Virtualization)
+
 ## Week 1: Introduction to High-performance Computer Architecture
 
 ![Relevant XKCD](https://imgs.xkcd.com/comics/efficiency.png)
