@@ -30,4 +30,4 @@ These lectures will be a mixture of small group activities and lectures.
 Class discussion will take place on [Microsoft Teams](https://teams.microsoft.com/l/team/19%3a924e0023b9f14f138d90e9133de7b7c0%40thread.tacv2/conversations?groupId=dc1deb3b-d7c2-42a3-9097-6c162e5bb8b3&tenantId=a8046f64-66c0-4f00-9046-c8daf92ff62b).
 You should have been added to this team already, but if you haven't, be sure to contact Professor Akella or Lowe-Power.
 
-![Under construction]({{'/assets/images/under-construction.png' | relative_url }})
+More details on the class structure can be found [on the reading list]({{"/reading" | relative_url}}).
