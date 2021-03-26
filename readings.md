@@ -36,7 +36,7 @@ I.e., if it's Sections 4-4.2 you should read Sections 4, 4.1, 4.1.1, 4.1.2, and 
 
 ## Week 2: Cache coherence and memory consistency
 
-![Caches! How do they even work?]({{/assets/images/caches.jpg | relative_url}})
+![Caches! How do they even work?]({{"/assets/images/caches.jpg" | relative_url}})
 
 ### Lecture 3 (4/6): Cache coherence (intro) and memory consistency
 
@@ -84,7 +84,7 @@ I.e., if it's Sections 4-4.2 you should read Sections 4, 4.1, 4.1.1, 4.1.2, and 
 
 ## Week 5: Virtual memory and Virtualization
 
-![I hear you like virtual memory]({{/assets/images/caches.jpg | relative_url}})
+![I hear you like virtual memory]({{"/assets/images/xzibit.jpg" | relative_url}})
 
 ### Lecture 9 (4/27): Virtual memory
 
