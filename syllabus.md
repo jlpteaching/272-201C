@@ -42,14 +42,14 @@ Normally my office location is 3049 Kemper Hall, but now it's home with my cats!
 
 ####  Venkatesh's Office Hours
 
-Please see the annoucement on Teams for the Office Hour Timing and Zoom Link
+Please see the annoucement on Teams about my office hours and the Zoom link.
 
-You can always contact me via email if you have a question or want to discuss something. You don't have to wait for the office hour.
-I am happy to meet unless I am in another meeting right.
+You can always contact me via email and/or Teams if you have a question or want to discuss something. 
+You don't have to wait for the office hour.  
 
 ### Lectures
 
-#### Lecture etiquette
+#### Lecture Etiquette
 
 We've now all had some experience with participating in remote meetings.
 However, just as a quick reminder below are some common etiquette ideas that I've found work well when participating in remote meetings.
@@ -62,13 +62,13 @@ However, just as a quick reminder below are some common etiquette ideas that I'v
 
 ## Class Resources
 
-### Online material
+### Online Material
 
 All of the material for this course is online.
 We will use [this website]({{'/' | relative_url}}) as the main website and entry point for all course information.
 You can find the source for this website on [GitHub](https://github.com/jlpteaching/272-201C).
 
-### Online discussions
+### Online Discussions
 
 We will use [Teams](https://teams.microsoft.com/l/team/19%3a924e0023b9f14f138d90e9133de7b7c0%40thread.tacv2/conversations?groupId=dc1deb3b-d7c2-42a3-9097-6c162e5bb8b3&tenantId=a8046f64-66c0-4f00-9046-c8daf92ff62b) for class discussions outside of the classroom.
 
