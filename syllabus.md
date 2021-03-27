@@ -12,7 +12,7 @@ See canvas or Teams for link.
 
 ### Instructors
 
-For ECE 272: **Professor Venkatesh Akella** (<email>).
+For ECE 272: **Professor Venkatesh Akella** (<akella@ucdavis.edu>).
 
 For ECS 201C: **Professor Jason Lowe-Power** (<jlowepower@ucdavis.edu>).
 
@@ -39,6 +39,13 @@ You can use [my calendar](https://calendar.google.com/calendar/embed?src=jlowepo
 It's not guaranteed to be completely up-to-date, but it gives a good starting point.
 
 Normally my office location is 3049 Kemper Hall, but now it's home with my cats!
+
+####  Venkatesh's Office Hours
+
+Please see the annoucement on Teams for the Office Hour Timing and Zoom Link
+
+You can always contact me via email if you have a question or want to discuss something. You don't have to wait for the office hour.
+I am happy to meet unless I am in another meeting right.
 
 ### Lectures
 
