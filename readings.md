@@ -11,6 +11,12 @@ Let us know on Teams if you can't find the paper or can't log into the VPN and w
 **NOTE:** All chapter/section numbers are *inclusive*.
 I.e., if it's Sections 4-4.2 you should read Sections 4, 4.1, 4.1.1, 4.1.2, and Section 4.2.
 
+### Hint
+
+You're encoraged to discuss the reading outside of class with your fellow classmates.
+You are welcome to use Teams to discuss the paper and ask questions.
+You may also find it useful to form "reading groups" to discuss the paper together.
+
 ## How lecture will work (20% of your grade!)
 
 Before every lecture, you *must* read the required reading listed below.
@@ -27,6 +33,14 @@ We will only hit the highlights, fill in blanks which the reading misses, and an
 Then, we will randomly assign everyone to breakout rooms for 15-30 minutes to work in groups to answer *the questions you proposed*.
 We will select 2-4 questions for each lecture which you will have to write 1-2 paragraph answers.
 You will work together on a google doc within your group and then turn in the document at the end of the breakout session.
+
+#### Example questions:
+
+Let's say the reading was on cache coherence and memory consistency.
+
+* 3 point: Explain why cache coherence only matters for out-of-order cores.
+* 7 point: Give an example thread interleaving which is a valid sequentially consistent order where a load and a store are executed in a different order than program order.
+* 10 point: Compare and constrast a snooping-based protocol and a broadcast-based directory protocol (Dir0B). In both cases, every request is "broadcast" to all caches, so when would you use one vs the other?
 
 **You will be graded based on your answers** to these questions.
 The breakout sessions answers and the questions you submit before class will make up 20% of your grade.
