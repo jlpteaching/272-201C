@@ -23,9 +23,9 @@ Before every lecture, you *must* read the required reading listed below.
 You must submit 2 "test-like" questions based on the reading.
 These questions will be graded on the following scale:
 
-* 3 points: The question is off topic or has fundamental mistakes
-* 7 points: The question only requires recalling facts from the reading
-* 10 points: The question demonstrates a deep understanding of the reading and asks a research-like question that requires coalescing knowledge.
+* 1 points: The question is off topic or has fundamental mistakes
+* 2 points: The question only requires recalling facts from the reading
+* 3 points: The question demonstrates a deep understanding of the reading and asks a research-like question that requires coalescing knowledge.
 
 For the first 45 minutes to an hour of lecture Professor Akella and/or Lowe-Power will reinforce the reading.
 We will only hit the highlights, fill in blanks which the reading misses, and answer questions you may have (i.e., if you don't do the reading you will miss important information!).
@@ -38,9 +38,9 @@ You will work together on a google doc within your group and then turn in the do
 
 Let's say the reading was on cache coherence and memory consistency.
 
-* 3 point: Explain why cache coherence only matters for out-of-order cores.
-* 7 point: Give an example thread interleaving which is a valid sequentially consistent order where a load and a store are executed in a different order than program order.
-* 10 point: Compare and contrast a snooping-based protocol and a broadcast-based directory protocol (Dir0B). In both cases, every request is "broadcast" to all caches, so when would you use one vs the other?
+* 1 point: Explain why cache coherence only matters for out-of-order cores.
+* 2 point: Give an example thread interleaving which is a valid sequentially consistent order where a load and a store are executed in a different order than program order.
+* 3 point: Compare and contrast a snooping-based protocol and a broadcast-based directory protocol (Dir0B). In both cases, every request is "broadcast" to all caches, so when would you use one vs the other?
 
 **You will be graded based on your answers** to these questions.
 The breakout sessions answers and the questions you submit before class will make up 20% of your grade.
