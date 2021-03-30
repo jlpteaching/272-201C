@@ -40,7 +40,7 @@ Let's say the reading was on cache coherence and memory consistency.
 
 * 3 point: Explain why cache coherence only matters for out-of-order cores.
 * 7 point: Give an example thread interleaving which is a valid sequentially consistent order where a load and a store are executed in a different order than program order.
-* 10 point: Compare and constrast a snooping-based protocol and a broadcast-based directory protocol (Dir0B). In both cases, every request is "broadcast" to all caches, so when would you use one vs the other?
+* 10 point: Compare and contrast a snooping-based protocol and a broadcast-based directory protocol (Dir0B). In both cases, every request is "broadcast" to all caches, so when would you use one vs the other?
 
 **You will be graded based on your answers** to these questions.
 The breakout sessions answers and the questions you submit before class will make up 20% of your grade.
