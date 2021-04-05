@@ -100,11 +100,16 @@ The breakout sessions answers and the questions you submit before class will mak
 
 ### Lecture 5 (4/13):
 
-**Required reading**: 
+**Required reading**: https://github.com/jlpteaching/272-201C/blob/9d39d7ed33822c070872955572ee9403cf7f7d48/Appendix_F_online.pdf
+* Section F.2 and Section F.3 (skim through these sections quickly)
+* Section F.4
+* Section F.5
 
 ### Lecture 6 (4/15):
-
-**Required reading**:
+* Section F.6
+* Section F.8
+* 
+**Required reading**: https://github.com/jlpteaching/272-201C/blob/9d39d7ed33822c070872955572ee9403cf7f7d48/Appendix_F_online.pdf
 
 ## Week 4: Memory system
 
