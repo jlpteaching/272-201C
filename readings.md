@@ -100,7 +100,7 @@ The breakout sessions answers and the questions you submit before class will mak
 
 ### Lecture 5 (4/13):
 
-**Required reading**: [Synthesis Lecture: On-Chip Networks, Second Edition](https://www.morganclaypool.com/doi/abs/10.2200/S00772ED1V01Y201704CAC040)
+**Required reading**: 
 
 ### Lecture 6 (4/15):
 
@@ -113,9 +113,13 @@ The breakout sessions answers and the questions you submit before class will mak
 ### Lecture 7 (4/20):
 
 **Required reading**: [Synthesis Lecture: Innovations in the Memory System](https://www.morganclaypool.com/doi/abs/10.2200/S00933ED1V01Y201906CAC048)
+* Chapter 1
+* Chapter 2
+* Chapter 4
 
 ### Lecture 8 (4/22):
-
+* Chapter 5
+* Chapter 6
 **Required reading**:
 
 ## Week 5: Virtual memory and Virtualization
