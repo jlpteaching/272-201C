@@ -118,8 +118,10 @@ The breakout sessions answers and the questions you submit before class will mak
 * Chapter 4
 
 ### Lecture 8 (4/22):
+**Required reading**: [Synthesis Lecture: Innovations in the Memory System](https://www.morganclaypool.com/doi/abs/10.2200/S00933ED1V01Y201906CAC048)
 * Chapter 5
 * Chapter 6
+ 
 **Required reading**:
 
 ## Week 5: Virtual memory and Virtualization
