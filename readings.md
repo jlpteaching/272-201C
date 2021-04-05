@@ -100,14 +100,15 @@ The breakout sessions answers and the questions you submit before class will mak
 
 ### Lecture 5 (4/13):
 
-**Required reading**: [Computer Architecture - A Quantitative Approach, 6th Edition,Appendix F Interconnection Networks] ( https://github.com/jlpteaching/272-201C/blob/9d39d7ed33822c070872955572ee9403cf7f7d48/Appendix_F_online.pdf)
+**Required reading**: [Computer Architecture - A Quantitative Approach, 6th Edition,Appendix F Interconnection Networks]
+({{ '/Appendix_F_online.pdf' | relative_url}})
 
 * Section F.2 and Section F.3 (skim through these sections quickly)
 * Section F.4
 * Section F.5
 
 ### Lecture 6 (4/15):
-**Required reading**: [Computer Architecture - A Quantitative Approach, 6th Edition,Appendix F Interconnection Networks] ( https://github.com/jlpteaching/272-201C/blob/9d39d7ed33822c070872955572ee9403cf7f7d48/Appendix_F_online.pdf)
+**Required reading**: [Computer Architecture - A Quantitative Approach, 6th Edition,Appendix F Interconnection Networks] ( )
 
 * Section F.6
 * Section F.8
